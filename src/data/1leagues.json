@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Английская Премьер-Лига",
+    "country": "Англия",
+    "prestige": 5,
+    "style": "Агрессия и интенсивность",
+    "clubs": [
+      { "name": "Брайтон", "prestige": 4, "youthFocus": 4 },
+      { "name": "Брентфорд", "prestige": 3, "youthFocus": 3 },
+      { "name": "Кристал Пэлас", "prestige": 3, "youthFocus": 3 },
+      { "name": "Фулхэм", "prestige": 3, "youthFocus": 3 }
+    ]
+  },
+  {
+    "name": "Ла Лига",
+    "country": "Испания",
+    "prestige": 5,
+    "style": "Техника и контроль мяча",
+    "clubs": [
+      { "name": "Реал Сосьедад", "prestige": 4, "youthFocus": 4 },
+      { "name": "Вильярреал", "prestige": 4, "youthFocus": 4 },
+      { "name": "Бетис", "prestige": 4, "youthFocus": 3 },
+      { "name": "Севилья", "prestige": 4, "youthFocus": 3 }
+    ]
+  },
+  {
+    "name": "Бундеслига",
+    "country": "Германия",
+    "prestige": 4,
+    "style": "Система и прессинг",
+    "clubs": [
+      { "name": "Фрайбург", "prestige": 4, "youthFocus": 5 },
+      { "name": "Байер Леверкузен", "prestige": 5, "youthFocus": 4 },
+      { "name": "РБ Лейпциг", "prestige": 4, "youthFocus": 4 },
+      { "name": "Вердер Бремен", "prestige": 3, "youthFocus": 3 }
+    ]
+  },
+  {
+    "name": "Серия А",
+    "country": "Италия",
+    "prestige": 4,
+    "style": "Тактическая дисциплина",
+    "clubs": [
+      { "name": "Аталанта", "prestige": 4, "youthFocus": 4 },
+      { "name": "Лацио", "prestige": 4, "youthFocus": 3 },
+      { "name": "Болонья", "prestige": 3, "youthFocus": 3 },
+      { "name": "Фиорентина", "prestige": 4, "youthFocus": 3 }
+    ]
+  },
+  {
+    "name": "Лига 1",
+    "country": "Франция",
+    "prestige": 4,
+    "style": "Атлетизм и скоростные атаки",
+    "clubs": [
+      { "name": "Лилль", "prestige": 4, "youthFocus": 4 },
+      { "name": "Марсель", "prestige": 4, "youthFocus": 3 },
+      { "name": "Ренн", "prestige": 4, "youthFocus": 4 },
+      { "name": "Монако", "prestige": 4, "youthFocus": 3 }
+    ]
+  },
+  {
+    "name": "Эредивизи",
+    "country": "Нидерланды",
+    "prestige": 3,
+    "style": "Атака и креатив",
+    "clubs": [
+      { "name": "АЗ Алкмар", "prestige": 3, "youthFocus": 5 },
+      { "name": "ПСВ", "prestige": 4, "youthFocus": 4 },
+      { "name": "Фейеноорд", "prestige": 4, "youthFocus": 4 },
+      { "name": "Твенте", "prestige": 3, "youthFocus": 3 }
+    ]
+  },
+  {
+    "name": "MLS",
+    "country": "США",
+    "prestige": 3,
+    "style": "Маркетинг и развитие бренда",
+    "clubs": [
+      { "name": "Нэшвилл", "prestige": 3, "youthFocus": 3 },
+      { "name": "Сент-Луис Сити", "prestige": 3, "youthFocus": 3 },
+      { "name": "Сиэтл Саундерс", "prestige": 3, "youthFocus": 4 },
+      { "name": "Интер Майами", "prestige": 4, "youthFocus": 2 }
+    ]
+  },
+  {
+    "name": "Бразилейрао",
+    "country": "Бразилия",
+    "prestige": 3,
+    "style": "Техника и шоу",
+    "clubs": [
+      { "name": "Ботафого", "prestige": 3, "youthFocus": 3 },
+      { "name": "Палмейрас", "prestige": 4, "youthFocus": 4 },
+      { "name": "Флуминенсе", "prestige": 4, "youthFocus": 3 },
+      { "name": "Атлетико Паранаэнсе", "prestige": 3, "youthFocus": 3 }
+    ]
+  },
+  {
+    "name": "Турецкая Суперлига",
+    "country": "Турция",
+    "prestige": 3,
+    "style": "Темперамент и давление трибун",
+    "clubs": [
+      { "name": "Трабзонспор", "prestige": 3, "youthFocus": 3 },
+      { "name": "Галатасарай", "prestige": 4, "youthFocus": 3 },
+      { "name": "Бешикташ", "prestige": 4, "youthFocus": 3 },
+      { "name": "Истанбул Башакшехир", "prestige": 3, "youthFocus": 3 }
+    ]
+  },
+  {
+    "name": "Бельгийская Про Лига",
+    "country": "Бельгия",
+    "prestige": 3,
+    "style": "Подготовка молодежи",
+    "clubs": [
+      { "name": "Генк", "prestige": 3, "youthFocus": 4 },
+      { "name": "Брюгге", "prestige": 4, "youthFocus": 4 },
+      { "name": "Андерлехт", "prestige": 4, "youthFocus": 4 },
+      { "name": "Роял Антверпен", "prestige": 3, "youthFocus": 3 }
+    ]
+  }
+]

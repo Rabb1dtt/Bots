@@ -1,0 +1,3153 @@
+[
+  {
+    "name": "Liga Profesional de Fútbol",
+    "country": "Аргентина",
+    "prestige": 4,
+    "style": "Атакующий футбол и контратаки",
+    "clubs": [
+      {
+        "name": "Boca Juniors",
+        "prestige": 5,
+        "youthFocus": 3
+      },
+      {
+        "name": "River Plate",
+        "prestige": 5,
+        "youthFocus": 3
+      },
+      {
+        "name": "Independiente",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Racing Club",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Estudiantes",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "San Lorenzo",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Velez Sarsfield",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Rosario Central",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Belgrano",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Newell's",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Huracan",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Talleres",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Godoy Cruz",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Union",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Lanus",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Platense",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Banfield",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Defensa y Justicia",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Tigre",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Barracas Central",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Atletico Tucuman",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Central Cordoba",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Gimnasia",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Argentinos Jrs",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Dep. Riestra",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Instituto",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Ind. Rivadavia",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Sarmiento",
+        "prestige": 1,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "A-League",
+    "country": "Австралия",
+    "prestige": 3,
+    "style": "Физический футбол и прямые атаки",
+    "clubs": [
+      {
+        "name": "Sydney FC",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "Melbourne Victory",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "Brisbane Roar",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "Perth Glory",
+        "prestige": 3,
+        "youthFocus": 3
+      },
+      {
+        "name": "Melbourne City",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Newcastle Jets",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Adelaide United",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Western United",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "Central Coast",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "Macarthur FC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Auckland FC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Well. Phoenix",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "WS Wanderers",
+        "prestige": 2,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "Österreichische Fußball-Bundesliga",
+    "country": "Австрия",
+    "prestige": 3,
+    "style": "Техничный футбол с атакующим прессингом",
+    "clubs": [
+      {
+        "name": "RB Salzburg",
+        "prestige": 4,
+        "youthFocus": 4
+      },
+      {
+        "name": "SK Rapid Wien",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "SK Sturm Graz",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "FK Austria Wien",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "LASK",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "TSG Hoffenheim",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "WSG Tirol",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Austria Klagenfurt",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "SCR Altach",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "SV Ried",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "TSV Hartberg",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Wolfsberger AC",
+        "prestige": 2,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "1A Pro League",
+    "country": "Бельгия",
+    "prestige": 3,
+    "style": "Техничный футбол с быстрыми контратаками",
+    "clubs": [
+      {
+        "name": "RSC Anderlecht",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "Club Brugge",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Standard Liege",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Royal Antwerp FC",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "KAA Gent",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "KRC Genk",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "KV Mechelen",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Cercle Brugge",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "KV Kortrijk",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Sp. Charleroi",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "KVC Westerlo",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "OH Leuven",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "K. Beerschot VA",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "KAS Eupen",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "R. Union St.-G.",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "FCV Dender EH",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "STVV",
+        "prestige": 1,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "Chinese Super League",
+    "country": "Китай",
+    "prestige": 3,
+    "style": "Атакующий футбол с физическими требованиями",
+    "clubs": [
+      {
+        "name": "Shanghai Port FC",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Shandong Taishan",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Beijing Guoan",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Shanghai Shenhua",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Chengdu FC",
+        "prestige": 3,
+        "youthFocus": 1
+      },
+      {
+        "name": "Guangzhou F.C.",
+        "prestige": 3,
+        "youthFocus": 1
+      },
+      {
+        "name": "Henan Songshan",
+        "prestige": 3,
+        "youthFocus": 1
+      },
+      {
+        "name": "Wuhan Three Town",
+        "prestige": 3,
+        "youthFocus": 1
+      },
+      {
+        "name": "Qingdao FC",
+        "prestige": 3,
+        "youthFocus": 1
+      },
+      {
+        "name": "Qingdao W. Coast",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Meizhou Hakka FC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Zhejiang Pro",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Nantong Zhiyun FC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Tianjin JMT",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Cangzhou Lions",
+        "prestige": 1,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "3F Superliga",
+    "country": "Дания",
+    "prestige": 3,
+    "style": "Техничный футбол с высоким прессингом",
+    "clubs": [
+      {
+        "name": "F.C. Kobenhavn",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "Broendby IF",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Aarhus AGF",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "FC Midtjylland",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Odense BK",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "FC Nordsjælland",
+        "prestige": 2,
+        "youthFocus": 3
+      },
+      {
+        "name": "Randers FC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Silkeborg IF",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Vejle Boldklub",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Aalborg BK",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "SønderjyskE",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Viborg FF",
+        "prestige": 2,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "Premier League",
+    "country": "Англия",
+    "prestige": 5,
+    "style": "Агрессия, интенсивность и физический футбол",
+    "clubs": [
+      {
+        "name": "Manchester City",
+        "prestige": 5,
+        "youthFocus": 4
+      },
+      {
+        "name": "Liverpool",
+        "prestige": 5,
+        "youthFocus": 3
+      },
+      {
+        "name": "Manchester United",
+        "prestige": 5,
+        "youthFocus": 4
+      },
+      {
+        "name": "Chelsea",
+        "prestige": 5,
+        "youthFocus": 5
+      },
+      {
+        "name": "Arsenal",
+        "prestige": 5,
+        "youthFocus": 4
+      },
+      {
+        "name": "Tottenham",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "Newcastle United",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Aston Villa",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Brighton",
+        "prestige": 4,
+        "youthFocus": 4
+      },
+      {
+        "name": "Everton",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Brentford",
+        "prestige": 3,
+        "youthFocus": 3
+      },
+      {
+        "name": "West Ham",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Fulham",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Crystal Palace",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Ipswich",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "Leicester City",
+        "prestige": 3,
+        "youthFocus": 3
+      },
+      {
+        "name": "Wolves",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Burnley",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Southampton",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "Watford",
+        "prestige": 2,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "EFL Championship",
+    "country": "Англия",
+    "prestige": 3,
+    "style": "Интенсивный и конкурентный футбол",
+    "clubs": [
+      {
+        "name": "Sheffield United",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Leeds United",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Norwich",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Southampton",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Fulham",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "AFC Bournemouth",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Bristol City",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Coventry City",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "Middlesbrough",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "Cardiff City",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Nott'm Forest",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "Preston",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Hull City",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "West Bromwich",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Luton Town",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Blackburn Rovers",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Stoke City",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Swansea City",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Derby County",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "QPR",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Blackpool",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Huddersfield",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Reading",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Barnsley",
+        "prestige": 1,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "EFL League One",
+    "country": "Англия",
+    "prestige": 2,
+    "style": "Разнообразный футбол среднего уровня",
+    "clubs": [
+      {
+        "name": "Ipswich",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "Sunderland",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "Sheffield Wednesday",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "Portsmouth",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Oxford United",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Peterborough",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Charlton Athletic",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Wigan Athletic",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Plymouth Argyle",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Lincoln City",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Rotherham United",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Shrewsbury",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Cambridge United",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Bristol Rovers",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Cheltenham Town",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Fleetwood Town",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Morecambe",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "MK Dons",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Gillingham",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Accrington",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "AFC Wimbledon",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Burton Albion",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Crewe Alexandra",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Doncaster",
+        "prestige": 1,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "EFL League Two",
+    "country": "Англия",
+    "prestige": 2,
+    "style": "Прямой и практичный футбол",
+    "clubs": [
+      {
+        "name": "Exeter City",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Colchester",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Leyton Orient",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Crawley Town",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Northampton",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Swindon Town",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Barrow",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Mansfield Town",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Forest Green",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Oldham Athletic",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Salford City",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Scunthorpe United",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Walsall",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Port Vale",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Rochdale",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Harrogate Town",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Stevenage",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Wycombe",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Tranmere Rovers",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Sutton United",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Carlisle United",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Bradford City",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Hartlepool",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Newport County",
+        "prestige": 1,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "Ligue 1 McDonald's",
+    "country": "Франция",
+    "prestige": 5,
+    "style": "Баланс атаки и защиты с техничным футболом",
+    "clubs": [
+      {
+        "name": "Paris SG",
+        "prestige": 5,
+        "youthFocus": 4
+      },
+      {
+        "name": "OL",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "OM",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "LOSC Lille",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "AS Monaco",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "OGC Nice",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "RC Lens",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Stade Rennais",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "FC Nantes",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Strasbourg",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Stade Brestois",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "FC Lorient",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "ESTAC Troyes",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Real Reims",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Angers SCO",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Clermont Foot",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Montpellier",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "FC Metz",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "AS Saint-Etienne",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Bordeaux",
+        "prestige": 2,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "Ligue 2 BKT",
+    "country": "Франция",
+    "prestige": 2,
+    "style": "Разнообразный футбол с амбициями",
+    "clubs": [
+      {
+        "name": "Toulouse FC",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "AJ Auxerre",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "AC Ajaccio",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Dijon FCO",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "FCSM",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Grenoble Foot",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Havre AC",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Niort",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Nimes Olympique",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Paris FC",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Pau FC",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Quevilly Rouen",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Rodez AF",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "SC Bastia",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "SM Caen",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Amiens SC",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "En Avant Guingamp",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "AS Nancy Lorraine",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "USL Dunkerque",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Valenciennes FC",
+        "prestige": 1,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "Bundesliga",
+    "country": "Германия",
+    "prestige": 5,
+    "style": "Высокий прессинг и атакующий футбол",
+    "clubs": [
+      {
+        "name": "FC Bayern Munchen",
+        "prestige": 5,
+        "youthFocus": 4
+      },
+      {
+        "name": "Borussia Dortmund",
+        "prestige": 5,
+        "youthFocus": 4
+      },
+      {
+        "name": "RB Leipzig",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "Bayer Leverkusen",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "Eintracht Frankfurt",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "VfB Stuttgart",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "Borussia Monchengladbach",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "TSG Hoffenheim",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "VfL Wolfsburg",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "SC Freiburg",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "FC Cologne",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Union Berlin",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Mainz 05",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "VfL Bochum",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Hertha Berlin",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "FC Augsburg",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Arminia Bielefeld",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Furth",
+        "prestige": 1,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "Bundesliga 2",
+    "country": "Германия",
+    "prestige": 3,
+    "style": "Разнообразный футбол с амбициями",
+    "clubs": [
+      {
+        "name": "FC Schalke 04",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Hamburg SV",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "SV Werder Bremen",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Hannover 96",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Kaiserslautern",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Nurnberg",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Dynamo Dresden",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Rostock",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "SC Paderborn",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Heidenheim",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Dusseldorf",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Holstein Kiel",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Regensburg",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "FC Ingolstadt",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "FC Aue",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "SV Darmstadt",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "SV Sandhausen",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Karlsruher SC",
+        "prestige": 1,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "3. Liga",
+    "country": "Германия",
+    "prestige": 2,
+    "style": "Разнообразный третий уровень",
+    "clubs": [
+      {
+        "name": "Kaiserslautern",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Braunschweig",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "1. FC Magdeburg",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "1860 Munchen",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Viktoria Berlin",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Dynamo Dresden",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "FSV Zwickau",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Hallescher FC",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "MSV Duisburg",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Saarbrucken",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "SC Verl",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "SV Meppen",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "SV Waldhof",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "SVWW",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "TSV Havelse",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Turkgucu Munchen",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "VfL Osnabruck",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Viktoria Koln",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Wurzburg",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "B. Dortmund II",
+        "prestige": 1,
+        "youthFocus": 2
+      }
+    ]
+  },
+  {
+    "name": "Hero ISL",
+    "country": "Индия",
+    "prestige": 2,
+    "style": "Разнообразный с европейским влиянием",
+    "clubs": [
+      {
+        "name": "FC Goa",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "ATK Mohun Bagan",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "Kerala Blasters",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Bengaluru FC",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "Mumbai City FC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Hyderabad FC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Jamshedpur FC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Chennaiyin FC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "NorthEast United",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "East Bengal FC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Odisha FC",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Mohammedan SC",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Punjab FC",
+        "prestige": 1,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "Serie A Enilive",
+    "country": "Италия",
+    "prestige": 5,
+    "style": "Тактический и защитный футбол",
+    "clubs": [
+      {
+        "name": "Juventus",
+        "prestige": 5,
+        "youthFocus": 3
+      },
+      {
+        "name": "Inter",
+        "prestige": 5,
+        "youthFocus": 3
+      },
+      {
+        "name": "AC Milan",
+        "prestige": 5,
+        "youthFocus": 3
+      },
+      {
+        "name": "AS Roma",
+        "prestige": 4,
+        "youthFocus": 4
+      },
+      {
+        "name": "Napoli",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Atalanta",
+        "prestige": 4,
+        "youthFocus": 4
+      },
+      {
+        "name": "Lazio",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Fiorentina",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Bologna",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Genoa",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Torino",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Udinese",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Real Sociedad",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Empoli",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Hellas Verona",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Sampdoria",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Sassuolo",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Venezia",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Cagliari",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Salernitana",
+        "prestige": 2,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "Serie BKT",
+    "country": "Италия",
+    "prestige": 2,
+    "style": "Разнообразный второй уровень",
+    "clubs": [
+      {
+        "name": "Frosinone",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Brescia",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "Parma",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Reggiana",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Pisa",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Palermo",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Cittadella",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Cremonese",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Modena",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Cosenza",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Cesena",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Catanzaro",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Bari",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Juve Stabia",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Mantova",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Carrarese",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Sudtirol",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "CD Lug",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Spezia",
+        "prestige": 2,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "Eredivisie",
+    "country": "Нидерланды",
+    "prestige": 4,
+    "style": "Техничный, атакующий и позиционный футбол",
+    "clubs": [
+      {
+        "name": "AFC Ajax",
+        "prestige": 5,
+        "youthFocus": 5
+      },
+      {
+        "name": "PSV",
+        "prestige": 4,
+        "youthFocus": 4
+      },
+      {
+        "name": "Feyenoord",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "AZ",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "FC Utrecht",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "FC Groningen",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "FC Twente",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "SC Heerenveen",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "PEC Zwolle",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Vitesse",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Fortuna Sittard",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "NEC Nijmegen",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Go Ahead Eagles",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Heracles Almelo",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "SC Cambuur",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "RKC Waalwijk",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Sparta Rotterdam",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Willem II",
+        "prestige": 2,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "Eliteserien",
+    "country": "Норвегия",
+    "prestige": 3,
+    "style": "Атакующий и быстрый футбол",
+    "clubs": [
+      {
+        "name": "FK Bodø/Glimt",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "Molde FK",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Rosenborg BK",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "SK Brann",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Vålerenga Fotball",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Viking FK",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Strømsgodet IF",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Kristiansund",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Lillestrøm SK",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Sarpsborg 08",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Tromsø IL",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Stabæk Fotball",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "FK Haugesund",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Mjøndalen IF",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Sandefjord",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Odds BK",
+        "prestige": 1,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "PKO BP Ekstraklasa",
+    "country": "Польша",
+    "prestige": 3,
+    "style": "Интенсивный и физический футбол",
+    "clubs": [
+      {
+        "name": "Legia Warszawa",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Wisla Krakow",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Lech Poznan",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Pogon Szczecin",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Jagiellonia",
+        "prestige": 3,
+        "youthFocus": 1
+      },
+      {
+        "name": "Raków",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Lechia Gdansk",
+        "prestige": 3,
+        "youthFocus": 1
+      },
+      {
+        "name": "Piast Gliwice",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Śląsk Wrocław",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Górnik Zabrze",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Górnik Łęczna",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Cracovia",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Wisła Płock",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Zagłębie Lubin",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Warta Poznań",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Stal Mielec",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Radomiak Radom",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Bruk-Bet",
+        "prestige": 1,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "Liga Portugal",
+    "country": "Португалия",
+    "prestige": 4,
+    "style": "Техничный футбол с развитием молодежи",
+    "clubs": [
+      {
+        "name": "FC Porto",
+        "prestige": 5,
+        "youthFocus": 4
+      },
+      {
+        "name": "SL Benfica",
+        "prestige": 5,
+        "youthFocus": 5
+      },
+      {
+        "name": "Sporting CP",
+        "prestige": 5,
+        "youthFocus": 4
+      },
+      {
+        "name": "SC Braga",
+        "prestige": 3,
+        "youthFocus": 3
+      },
+      {
+        "name": "Vitória SC",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "FC Famalicão",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "Arouca",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "CD Tondela",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Boavista FC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Marítimo",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Moreirense FC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Portimonense SC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Paços Ferreira",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Santa Clara",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Estoril Praia",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "FC Vizela",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Gil Vicente",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Belenenses SAD",
+        "prestige": 2,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "K League 1",
+    "country": "Республика Корея",
+    "prestige": 3,
+    "style": "Быстрые контратаки и долгие передачи",
+    "clubs": [
+      {
+        "name": "FC Seoul",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Jeonbuk Hyundai Motors",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Pohang Steelers",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Ulsan Hyundai",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Incheon United",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Gangwon FC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Daegu FC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Jeju United",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Daejeon Hana Citizen",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Gwangju FC",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Suwon FC",
+        "prestige": 1,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "Liga I",
+    "country": "Румыния",
+    "prestige": 2,
+    "style": "Интенсивный европейский футбол",
+    "clubs": [
+      {
+        "name": "FCSB",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "CFR Cluj",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Universitatea Craiova",
+        "prestige": 3,
+        "youthFocus": 1
+      },
+      {
+        "name": "FC Rapid",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Dinamo Bucharest",
+        "prestige": 3,
+        "youthFocus": 1
+      },
+      {
+        "name": "UTA Arad",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Sepsi OSK",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Farul Constanța",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Gaz Metan",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "FC Voluntari",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "FC Argeș",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Academica",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "AFC Chindia",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "FC Botoşani",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "CS Mioveni",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "FC U Craiova",
+        "prestige": 1,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "Roshn Saudi League",
+    "country": "Саудовская Аравия",
+    "prestige": 3,
+    "style": "Атакующий футбол с финансовыми ресурсами",
+    "clubs": [
+      {
+        "name": "Al Hilal",
+        "prestige": 4,
+        "youthFocus": 1
+      },
+      {
+        "name": "Al Nassr",
+        "prestige": 4,
+        "youthFocus": 1
+      },
+      {
+        "name": "Al Ittihad",
+        "prestige": 3,
+        "youthFocus": 1
+      },
+      {
+        "name": "Al Ahli",
+        "prestige": 3,
+        "youthFocus": 1
+      },
+      {
+        "name": "Al Shabab",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Al Fateh",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Al Taawoun",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Al Raed",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Al Faisaly",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Al Tai",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Al Fayha",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Al Hazem",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Al Batin",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Abha Club",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Ettifaq FC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Damac FC",
+        "prestige": 1,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "Cinch Premiership",
+    "country": "Шотландия",
+    "prestige": 3,
+    "style": "Интенсивный шотландский футбол",
+    "clubs": [
+      {
+        "name": "Celtic",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "Rangers",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "Aberdeen",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Hearts",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Hibernian",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Dundee United",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Dundee FC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "St. Johnstone",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "St. Mirren",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Livingston",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Motherwell",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Ross County",
+        "prestige": 2,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "La Liga EA SPORTS",
+    "country": "Испания",
+    "prestige": 5,
+    "style": "Техничный и позиционный футбол",
+    "clubs": [
+      {
+        "name": "Real Madrid",
+        "prestige": 5,
+        "youthFocus": 3
+      },
+      {
+        "name": "FC Barcelona",
+        "prestige": 5,
+        "youthFocus": 5
+      },
+      {
+        "name": "Atletico de Madrid",
+        "prestige": 5,
+        "youthFocus": 2
+      },
+      {
+        "name": "Real Sociedad",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "Real Betis",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Sevilla FC",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Valencia CF",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Villarreal CF",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Athletic Club",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Getafe CF",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Rayo Vallecano",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "RC Celta",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Osasuna",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "RCD Mallorca",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "RCD Espanyol",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Granada CF",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Levante UD",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Cadiz CF",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Elche CF",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "D. Alaves",
+        "prestige": 2,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "La Liga Hypermotion",
+    "country": "Испания",
+    "prestige": 2,
+    "style": "Разнообразный второй уровень",
+    "clubs": [
+      {
+        "name": "Real Valladolid",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Real Zaragoza",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Real Oviedo",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "SD Eibar",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Girona FC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "CD Mirandés",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "UD Almería",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "SD Huesca",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Real Sporting",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Real Sociedad B",
+        "prestige": 1,
+        "youthFocus": 2
+      },
+      {
+        "name": "FC Cartagena",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "UD Las Palmas",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "SD Ponferradina",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "SD Amorebieta",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "CD Leganés",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Málaga CF",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "CD Lugo",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "CD Tenerife",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "UD Ibiza",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "CF Fuenlabrada",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Burgos CF",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "AD Alcorcon",
+        "prestige": 1,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "Allsvenskan",
+    "country": "Швеция",
+    "prestige": 3,
+    "style": "Техничный и быстрый футбол",
+    "clubs": [
+      {
+        "name": "Malmö FF",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "AIK",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "IFK Göteborg",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Hammarby IF",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Djurgårdens IF",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "IF Elfsborg",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "BK Häcken",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Örebro SK",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Kalmar FF",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Halmstads BK",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Mjällby AIF",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "IFK Norrköping",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "IK Sirius",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Degerfors IF",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Eastersunds FK",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Varbergs BoIS",
+        "prestige": 1,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "Credit Suisse Super League",
+    "country": "Швейцария",
+    "prestige": 3,
+    "style": "Техничный и конкурентный футбол",
+    "clubs": [
+      {
+        "name": "BSC Young Boys",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "FC Basel",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "FC Zurich",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "FC St. Gallen",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Grasshopper Club",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "FC Luzern",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Lausanne-Sport",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Servette FC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "FC Lugano",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "FC Sion",
+        "prestige": 2,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "Trendyol Süper Lig",
+    "country": "Турция",
+    "prestige": 4,
+    "style": "Атакующий и физический футбол",
+    "clubs": [
+      {
+        "name": "Galatasaray",
+        "prestige": 5,
+        "youthFocus": 2
+      },
+      {
+        "name": "Fenerbahce",
+        "prestige": 5,
+        "youthFocus": 3
+      },
+      {
+        "name": "Besiktas",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Trabzonspor",
+        "prestige": 4,
+        "youthFocus": 2
+      },
+      {
+        "name": "Konyaspor",
+        "prestige": 3,
+        "youthFocus": 1
+      },
+      {
+        "name": "Gaziantep",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Basaksehir",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Sivasspor",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Kayserispor",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Kasimpasa",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Göztepe",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Giresunspor",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Adana Demirspor",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Antalyaspor",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Alanyaspor",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Hatayspor",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Karabukspor",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Altay SK",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Karagumruk SK",
+        "prestige": 1,
+        "youthFocus": 1
+      },
+      {
+        "name": "Yeni Malatyaspor",
+        "prestige": 1,
+        "youthFocus": 1
+      }
+    ]
+  },
+  {
+    "name": "Major League Soccer",
+    "country": "США и Канада",
+    "prestige": 4,
+    "style": "Разнообразный с европейским влиянием",
+    "clubs": [
+      {
+        "name": "LA Galaxy",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "New York Red Bulls",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "Seattle Sounders",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "Manchester City (MLS)",
+        "prestige": 5,
+        "youthFocus": 4
+      },
+      {
+        "name": "Inter Miami CF",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "LAFC",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "Toronto FC",
+        "prestige": 4,
+        "youthFocus": 3
+      },
+      {
+        "name": "Columbus Crew",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Portland Timbers",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Houston Dynamo",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Sporting Kansas City",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "San Jose Earthquakes",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Colorado Rapids",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "FC Dallas",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Chicago Fire",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Atlanta United",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Orlando City",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "Nashville SC",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Austin FC",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "Minnesota United",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "New England Revolution",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "Philadelphia Union",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "New York City FC",
+        "prestige": 3,
+        "youthFocus": 2
+      },
+      {
+        "name": "D.C. United",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "FC Cincinnati",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "Vancouver Whitecaps",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "CF Montreal",
+        "prestige": 2,
+        "youthFocus": 1
+      },
+      {
+        "name": "San Diego FC",
+        "prestige": 2,
+        "youthFocus": 2
+      },
+      {
+        "name": "St. Louis City",
+        "prestige": 2,
+        "youthFocus": 2
+      }
+    ]
+  }
+]
